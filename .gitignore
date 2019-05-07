@@ -1,2 +1,5 @@
 # Windows thumbnail cache
 Thumbs.db
+
+# Idea project files
+.idea
